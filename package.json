@@ -1,0 +1,16 @@
+{
+  "name": "devarena",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix DJS_LOC",
+    "build": "npm run build --prefix DJS_LOC",
+    "preview": "npm run preview --prefix DJS_LOC"
+  },
+  "dependencies": {
+    "html5-qrcode": "^2.3.8",
+    "qrcode.react": "^4.2.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.3"
+  }
+}
